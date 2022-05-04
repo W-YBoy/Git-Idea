@@ -8,6 +8,7 @@ public class AiLe  {
         System.out.println("git4");
         System.out.println("master5");
         System.out.println("git5");
+int a=0;
         System.out.println("git6");
     }
 }
